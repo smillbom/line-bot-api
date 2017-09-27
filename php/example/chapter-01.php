@@ -21,3 +21,4 @@ if (!empty($bot->isEvents)) {
     exit();
 
 }
+echo 'tset';
